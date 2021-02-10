@@ -6,3 +6,7 @@ Olá, seguindo os treinamentos com o Canal Online Tutorials, irei reproduzir o m
 <code>
   https://www.youtube.com/watch?v=PdNOq7VszY8&t=95s
 </code>
+
+Veja o resltado deste projeto, neste link:
+
+https://luisfernandomgrs.github.io/Background-Animation-Effects2/
